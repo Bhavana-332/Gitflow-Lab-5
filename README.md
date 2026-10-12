@@ -1,1 +1,1 @@
-Gitflow Lab 5 - Conflict Resolved Successfully
+Gitflow Lab 5 - Conflict Resolved Successfully 
